@@ -1,6 +1,6 @@
 # J296
 # Julietta Bisharyan 
-## Data and investigative journalist
+## I'm a data and investigative journalist
 !['Julietta Bisharyan', 'Headshot of Julietta Bisharyan'](/headshot_julietta.jpg)
 ## Skills
 1. HTML/CSS, JavaScript, Python, Pandas, R
